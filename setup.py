@@ -18,7 +18,7 @@ setup(name='outrageclf',
             'keras',
             'nltk',
             'numpy==1.26.4',
-            'sklearn',
+            'scikit-learn',
             'tensorflow'
       ],
       author='Tuan Nguyen Doan',
