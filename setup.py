@@ -15,11 +15,11 @@ setup(name='outrageclf',
       install_requires=[
             'emoji==1.6.3',
             'joblib',
-            'keras==2.7.0',
+            'keras==2.8.0',
             'nltk',
             'numpy==1.26.4',
             'scikit-learn',
-            'tensorflow==2.7.0'
+            'tensorflow==2.8.0'
       ],
       author='Tuan Nguyen Doan',
       author_email='tuan.nguyen.doan@aya.yale.edu',
