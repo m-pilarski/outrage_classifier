@@ -13,11 +13,11 @@ setup(name='outrageclf',
       long_description=README,
       url='https://github.com/CrockettLab/outrage_classifier',
       install_requires=[
-            'emoji',
+            'emojiemoji==1.6.3',
             'joblib',
             'keras',
             'nltk',
-            'numpy',
+            'numpy==1.26.4',
             'sklearn',
             'tensorflow'
       ],
