@@ -19,7 +19,7 @@ setup(name='outrageclf',
             'nltk',
             'numpy==1.26.4',
             'scikit-learn',
-            'tensorflow'
+            'tensorflow==2.17.0'
       ],
       author='Tuan Nguyen Doan',
       author_email='tuan.nguyen.doan@aya.yale.edu',
