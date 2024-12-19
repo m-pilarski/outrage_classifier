@@ -13,7 +13,7 @@ setup(name='outrageclf',
       long_description=README,
       url='https://github.com/CrockettLab/outrage_classifier',
       install_requires=[
-            'emojiemoji==1.6.3',
+            'emoji==1.6.3',
             'joblib',
             'keras',
             'nltk',
