@@ -19,7 +19,8 @@ setup(name='outrageclf',
             'nltk',
             'numpy==1.26.4',
             'scikit-learn',
-            'tensorflow==2.8.0'
+            'tensorflow==2.8.0',
+            'protobuf==3.20.0'
       ],
       author='Tuan Nguyen Doan',
       author_email='tuan.nguyen.doan@aya.yale.edu',
