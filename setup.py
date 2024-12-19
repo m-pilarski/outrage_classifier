@@ -15,7 +15,7 @@ setup(name='outrageclf',
       install_requires=[
             'emoji==1.6.3',
             'joblib',
-            'keras',
+            'keras==2.7.0',
             'nltk',
             'numpy==1.26.4',
             'scikit-learn',
